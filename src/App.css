@@ -36,3 +36,6 @@
     transform: rotate(360deg);
   }
 }
+/*******************************/
+@import url("https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css");
+@import url("https://cdn.lineicons.com/2.0/LineIcons.css");
